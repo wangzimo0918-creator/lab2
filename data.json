@@ -1,0 +1,35 @@
+
+{
+    "games": [
+        {
+            "name": "Valorant",
+            "genre": "Tactical Shooter",
+            "hours_played": 120,
+            "rating": 9
+        },
+        {
+            "name": "Minecraft",
+            "genre": "Sandbox",
+            "hours_played": 85,
+            "rating": 8
+        },
+        {
+            "name": "Street Fighter 6",
+            "genre": "Fighting",
+            "hours_played": 40,
+            "rating": 9
+        },
+        {
+            "name": "Cities: Skylines II",
+            "genre": "Simulation",
+            "hours_played": 60,
+            "rating": 7
+        },
+        {
+            "name": "League of Legends",
+            "genre": "MOBA",
+            "hours_played": 100,
+            "rating": 8
+        }
+    ]
+}
